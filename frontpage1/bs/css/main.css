@@ -9,6 +9,13 @@ body, html{
  	margin-top: 70px;
 }
 
+.footer-colors-ordering{
+	background-color: #303030;
+	color: #ffffff;
+
+
+}
+
 hr{
 	width: 10%;
 	color: #fff;
