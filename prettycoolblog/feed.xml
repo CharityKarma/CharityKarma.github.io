@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awesome CharityKarma Blog</title>
+    <description>The official CharityKarma blog 
+</description>
+    <link>http://charitykarma.github.io/staticblog1/</link>
+    <atom:link href="http://charitykarma.github.io/staticblog1/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 23 Jul 2016 14:20:45 +0200</pubDate>
+    <lastBuildDate>Sat, 23 Jul 2016 14:20:45 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>the blog</title>
+        <description>&lt;p&gt;Hi! My name is Magnus&lt;/p&gt;
+
+&lt;p&gt;Together with my brother Vegard, I am developing “Charity Karma” which we aim to be the main online hub for virtual volunteering and collaboration for the greater good. 
+2014 I spent travelling the world. I ran down my bucket list, jumping out of planes, sailing across the atlantic and practising kung fu at the outskirts of Shanghai. Yet the memory I hold dearest, is from a late bustling night in New York city, when I asked a young woman begging on the street if she wanted to spend a meal with me. 
+And from the $30000 lye spent on the whole trip, its the $50 I spent with Kayla that gave me the most. 
+Such a trip, and such an insight surely brought changes to my life. And I was soon inspired to bring the gift of giving to those less exposed to such an awesome opportunity. But where to begin? 
+In the early summer of 2016 I was hiking the forest with Vegard. Vegard, contradictory to me, loves everything that is codeable. And as an indiegamer by heart, he has been exposed to an online community based on the elements of sharing and collaboration. And through the merging of my inspiration and Vegards experience from online sharing, rose the idea of “Charity Karma”. 
+A platform that combines the collaborate spirit form the indiegaming community with the heart for others that lives in us all. Its supposed to be a place where everyone can give, whether its skills, creativity or a couple dimes.&lt;/p&gt;
+
+&lt;p&gt;Bucketlist item #5 - Walk the Chinese Wall.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/magnus_chinese_wall.jpg&quot; alt=&quot;Magnus on the chinese wall&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Jul 2016 14:18:00 +0200</pubDate>
+        <link>http://charitykarma.github.io/staticblog1/generic/posts/2016/07/23/magnus-post-1.html</link>
+        <guid isPermaLink="true">http://charitykarma.github.io/staticblog1/generic/posts/2016/07/23/magnus-post-1.html</guid>
+        
+        
+        <category>generic</category>
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>the blog</title>
+        <description>&lt;p&gt;Hello&lt;/p&gt;
+
+&lt;p&gt;We’ve started a Jekyll blog to document the process of developing CharityKarma. On here you can expect to be kept up-to-date with major progress, posts about our vision of CharityKarma, grumblings about technical aspects of our project including challenges, and some general sillyness to kick it off :^)&lt;/p&gt;
+
+&lt;p&gt;Check our &lt;a href=&quot;http://charitykarma.github.io&quot;&gt;“github pages”&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 Jun 2016 18:25:32 +0200</pubDate>
+        <link>http://charitykarma.github.io/staticblog1/generic/posts/2016/06/10/a-blog-appears.html</link>
+        <guid isPermaLink="true">http://charitykarma.github.io/staticblog1/generic/posts/2016/06/10/a-blog-appears.html</guid>
+        
+        
+        <category>generic</category>
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
